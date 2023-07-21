@@ -1,0 +1,10 @@
+---
+title: "About me"
+format: gfm
+editor_options: 
+  chunk_output_type: console
+---
+
+Currently I work as a Senior Data Scientist an agritech (ADDIUM GmbH, formerly METER Gtoup AG).
+More to follow soon.
+
