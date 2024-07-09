@@ -1,4 +1,3 @@
 # About me
 
-Currently I work as a Senior Data Scientist in agritech industry (ADDIUM GmbH,
-formerly METER Group AG). More to follow soon.
+Currently I work as an AI Manager at the German Federal Agency for Cartography and Geodesy. More to follow soon.
